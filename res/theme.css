@@ -1,0 +1,97 @@
+.navbar-header .navbar-brand span{
+	color:#1ab188;
+}
+.sidebar ul.nav .active a{
+	background:#1ab188;
+}
+.sidebar ul.nav .active a:hover{
+	background:#1ab188;
+	opacity:0.8;
+}
+.breadcrumb .glyph {
+	color:#1ab188;
+}
+.breadcrumb .active{
+	color:#1ab188;
+}
+.nav li a{
+	color:#1ab188;
+}
+.sidebar ul.nav ul.children li a {
+    color: #1ab188!important;
+}
+.panel-blue .panel-heading{
+	background:#1ab188;
+}
+.nav{
+	
+}
+.btn-primary{
+	background:#1ab188;
+	border-color:#1ab188;
+}
+.btn-primary:hover{
+	background:#1ab188;
+	opacity:0.8;
+	border-color:#1ab188;
+}
+.dashboard{
+	background:#ffffff;
+}
+body{
+	background:#ffffff;
+}
+a .glyphicon{
+	color:#1ab188;
+}
+.main, .col-lg-12{
+	background:#ffffff;
+}
+
+.accountdetails label{
+	padding-top:5px;
+	margin:5px;
+}
+.accountdetails input{
+	margin:5px;
+}
+.accountdetails button{
+	margin-top:10px;
+	margin-left:5px;
+}
+ul.main-menu{
+	list-style:none;
+}
+.main-menu li{
+	float:left;
+	padding-right:10px;
+}
+.main-menu li.menu-item a{
+	color:#ffffff;
+	opacity:0.8;
+}
+.main-menu li.menu-item a:hover{
+	color:#ffffff;
+	text-decoration:none;
+	opacity:1.0;
+}
+.main-menu li.menu-item{
+	margin-top:15px;
+}
+.transaction button{
+	top:25px;
+	right:20px;
+	position:relative;
+}
+.faqs{
+	max-width:800px;
+	padding-top:20px;
+	padding-left:10px;
+	padding-right:10px;
+	margin:10px auto;
+}
+@media (max-width:600px)  {
+	.transaction button{
+		margin-left:20px;
+	}
+}
